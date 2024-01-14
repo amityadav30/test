@@ -1,2 +1,4 @@
+Learn JS and React
 Learn TS
 Learn GraphQL
+
